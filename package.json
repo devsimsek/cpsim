@@ -1,0 +1,13 @@
+{
+  "name": "jasm",
+  "version": "1.0.0",
+  "description": "A simple virutal cpu simulator built with js. (+ assembly ported on cpu)",
+  "author": "devsimsek",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cpu", "js", "asm"],
+  "license": "MIT",
+  "type": "module"
+}
