@@ -50,9 +50,9 @@ To integrate this assembly language interpreter into your project, follow these 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
-<div style="text-align:center;">
-    ![Contributions](https://repobeats.axiom.co/api/embed/3c9701bf073a12a281d83dce312ba691ca40d0fb.svg "Repobeats analytics image")
-</div>
+
+![Alt](https://repobeats.axiom.co/api/embed/3c9701bf073a12a281d83dce312ba691ca40d0fb.svg "Repobeats analytics image")
+
 ## Author
 
 - **devsimsek** - *Metin Şimşek*
